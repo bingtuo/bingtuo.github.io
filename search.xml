@@ -33,7 +33,7 @@
       <link href="/2023/02/17/2023-2-17-%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/02/17/2023-2-17-%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2><p>文通交通</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2><p>文通交通<br>```shell</p><h1 id="VSCode终端"><a href="#VSCode终端" class="headerlink" title="VSCode终端"></a>VSCode终端</h1><p>hexo clean; hexo s<br>hexo clean; hexo g; hexo d<br>git add .; git commit -m “npm publish”; npm version patch;<br>git push</p><h1 id="Cmder终端"><a href="#Cmder终端" class="headerlink" title="Cmder终端"></a>Cmder终端</h1><p>hexo clean &amp;&amp; hexo s<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d<br>git add . &amp;&amp; git commit -m “npm publish” &amp;&amp; npm version patch<br>git push<br>```</p>]]></content>
       
       
       <categories>
