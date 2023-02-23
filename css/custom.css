@@ -245,7 +245,7 @@ div#archive {
 .aspect-ratio iframe {
   position: absolute;
   width: 100%;
-  height: auto;
+  height: 80%;
   left: 0;
   top: 0;
 }
