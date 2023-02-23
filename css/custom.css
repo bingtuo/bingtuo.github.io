@@ -241,6 +241,7 @@ div#archive {
   padding-bottom: 75%;
   margin: 3% auto;
   text-align: center;
+  border-radius: 18px;
 }
 .aspect-ratio iframe {
   position: absolute;
