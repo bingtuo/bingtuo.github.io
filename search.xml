@@ -4,26 +4,27 @@
   
     
     <entry>
-      <title>jiaocheng</title>
-      <link href="/posts/723737b2.html"/>
-      <url>/posts/723737b2.html</url>
-      
-        <content type="html"><![CDATA[<p>jiangcdddd</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一人之下</title>
+      <title>图床方案</title>
       <link href="/posts/63534.html"/>
       <url>/posts/63534.html</url>
       
-        <content type="html"><![CDATA[<div align=center class="aspect-ratio">    <iframe src="https://m1yi-my.sharepoint.com/personal/bingtuo_m1yi_onmicrosoft_com/_layouts/15/embed.aspx?UniqueId=5b9c9a15-2e86-40a1-8b72-2d924eda6ef1&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=OneUpFileViewer&referrerScenario=EmbedDialog.Create"         scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true"     title="S04E01.mp4">    </iframe></div>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-基于Github仓库的图床"><a href="#1-基于Github仓库的图床" class="headerlink" title="1. 基于Github仓库的图床"></a>1. 基于Github仓库的图床</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&#123;% note info modern %&#125;</span><br><span class="line">优点：</span><br><span class="line"># </span><br><span class="line">1.用自己的仓库，安全稳定不跑路</span><br><span class="line">2.图片跨设备管理</span><br><span class="line">3.资源格式支持丰富，包括css、js等</span><br><span class="line">缺点：</span><br><span class="line"># </span><br><span class="line">1.每个仓库限制1个G容量（超过需要新建仓库）</span><br><span class="line">2.github网络问题（可以挂公共拖管平台，自定义域名加速）</span><br><span class="line">&#123;% endnote %&#125;</span><br></pre></td></tr></table></figure><h2 id="1-1-新建Github仓库"><a href="#1-1-新建Github仓库" class="headerlink" title="1.1 新建Github仓库"></a>1.1 新建Github仓库</h2><ol><li><p>登录Github</p><p><img src="https://img.bingt.top/img/image-20230306145105744.png" alt=""></p></li></ol><h2 id="1-2"><a href="#1-2" class="headerlink" title="1.2"></a>1.2</h2>]]></content>
       
       
+      <categories>
+          
+          <category> 图床 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 图床 </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
       
     </entry>
     
