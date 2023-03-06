@@ -8,7 +8,7 @@
       <link href="/posts/63534.html"/>
       <url>/posts/63534.html</url>
       
-        <content type="html"><![CDATA[<h1 id="1-基于Github仓库的图床"><a href="#1-基于Github仓库的图床" class="headerlink" title="1. 基于Github仓库的图床"></a>1. 基于Github仓库的图床</h1><div class="note info modern"><p>优点：</p><h1 id=""><a href="#" class="headerlink" title=" "></a> </h1><p>1.用自己的仓库，安全稳定不跑路<br>2.图片跨设备管理<br>3.资源格式支持丰富，包括css、js等<br>缺点：</p><h1 id="-1"><a href="#-1" class="headerlink" title=" "></a> </h1><p>1.每个仓库限制1个G容量（超过需要新建仓库）<br>2.github网络问题（可以挂公共拖管平台，自定义域名加速）</p></div><h2 id="1-1-新建Github仓库"><a href="#1-1-新建Github仓库" class="headerlink" title="1.1 新建Github仓库"></a>1.1 新建Github仓库</h2><ol><li><p>登录Github</p><p><img src="https://img.bingt.top/img/image-20230306145105744.png" alt=""></p></li></ol><h2 id="1-2"><a href="#1-2" class="headerlink" title="1.2"></a>1.2</h2>]]></content>
+        <content type="html"><![CDATA[<h1 id="1-基于Github仓库的图床"><a href="#1-基于Github仓库的图床" class="headerlink" title="1. 基于Github仓库的图床"></a>1. 基于Github仓库的图床</h1><div class="note info modern"><p>优点：</p><ol><li><p>用自己的仓库，安全稳定不跑路</p></li><li><p>图片跨设备管理</p></li><li><p>资源格式支持丰富，包括css、js等</p></li></ol><p>   缺点： </p><ol><li>每个仓库限制1个G容量（超过需要新建仓库）</li><li>github网络问题（可以挂公共拖管平台，自定义域名加速）</li></ol></div><h2 id="1-1-新建Github仓库"><a href="#1-1-新建Github仓库" class="headerlink" title="1.1 新建Github仓库"></a>1.1 新建Github仓库</h2><ol><li><p>登录Github</p><p><img src="https://img.bingt.top/img/image-20230306145105744.png" alt=""></p></li></ol><h2 id="1-2"><a href="#1-2" class="headerlink" title="1.2"></a>1.2</h2>]]></content>
       
       
       <categories>
