@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bingt.top/2023/07/bf28a84bdc56.html</loc>
+    
+    <lastmod>2023-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://bingt.top/2023/07/608f13f435e4.html</loc>
     
     <lastmod>2023-07-14</lastmod>
@@ -11,43 +20,7 @@
   </url>
   
   <url>
-    <loc>http://bingt.top/movies/index.html</loc>
-    
-    <lastmod>2023-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bingt.top/music/index.html</loc>
-    
-    <lastmod>2023-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bingt.top/tags/index.html</loc>
-    
-    <lastmod>2023-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bingt.top/link/index.html</loc>
-    
-    <lastmod>2023-07-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bingt.top/categories/index.html</loc>
+    <loc>http://bingt.top/2023/07/608f13f435e4.html</loc>
     
     <lastmod>2023-07-14</lastmod>
     
@@ -65,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://bingt.top/about/index.html</loc>
+    <loc>http://bingt.top/template/Front-matter.html</loc>
     
     <lastmod>2023-07-14</lastmod>
     
@@ -77,6 +50,24 @@
     <loc>http://bingt.top/2023/03/cef69124aeb4.html</loc>
     
     <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/2023/03/cef69124aeb4.html</loc>
+    
+    <lastmod>2023-03-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/2023/02/9a5ee6731df3.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -109,6 +100,105 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://bingt.top/2023/03/4332996d60c7.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/movies/dongman.html</loc>
+    
+    <lastmod>2023-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/movies/index.html</loc>
+    
+    <lastmod>2023-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/movies/dongman/%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B.html</loc>
+    
+    <lastmod>2023-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/movies/juji.html</loc>
+    
+    <lastmod>2023-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/movies/dianying.html</loc>
+    
+    <lastmod>2023-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/categories/index.html</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/music/index.html</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/about/index.html</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/link/index.html</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/tags/index.html</loc>
+    
+    <lastmod>2023-02-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://bingt.top/</loc>
@@ -117,13 +207,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://bingt.top/tags/C/</loc>
-    <lastmod>2023-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://bingt.top/tags/%E5%9B%BE%E5%BA%8A/</loc>
@@ -146,10 +229,17 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://bingt.top/tags/C/</loc>
+    <lastmod>2023-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://bingt.top/categories/C/</loc>
+    <loc>http://bingt.top/categories/%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -163,7 +253,7 @@
   </url>
   
   <url>
-    <loc>http://bingt.top/categories/%E5%9B%BE%E5%BA%8A/</loc>
+    <loc>http://bingt.top/categories/C/</loc>
     <lastmod>2023-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

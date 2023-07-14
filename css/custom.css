@@ -39,18 +39,16 @@
 }
 /* 鼠标悬浮状态 */
 [data-theme="dark"] .magnet_link_context:hover {
-  background: #b3ac9a;
+  background: #3ecdf1;
   color: #f2f2f2;
   border-radius: 8px;
 }
 
-
-
 @font-face {
   /* 为载入的字体取名字(随意) */
-  font-family: 'MISANS';	
+  font-family: 'HYTMR';	
   /* 字体文件地址(相对或者绝对路径都可以) */
-  src: url(/font/Misans.woff2);
+  src: url(/font/HYTangMeiRen55W.woff2);
   /* 定义加粗样式(加粗多少) */
   font-weight: normal;
   /* 定义字体样式(斜体/非斜体) */
@@ -128,45 +126,6 @@
   border-radius: 8px;
 }
 
-/* 鼠标样式 */
-#cursor {
-  position: fixed;
-  width: 16px;
-  height: 16px;
-  /* 这里改变跟随的底色 */
-  background: rgb(161, 253, 253);
-  border-radius: 8px;
-  opacity: 0.25;
-  z-index: 10086;
-  pointer-events: none;
-  transition: 0.2s ease-in-out;
-  transition-property: background, opacity, transform;
-}
-
-#cursor.hidden {
-  opacity: 0;
-}
-
-#cursor.hover {
-  opacity: 0.1;
-  transform: scale(2.5);
-  -webkit-transform: scale(2.5);
-  -moz-transform: scale(2.5);
-  -ms-transform: scale(2.5);
-  -o-transform: scale(2.5);
-}
-
-#cursor.active {
-  opacity: 0.5;
-  transform: scale(0.5);
-  -webkit-transform: scale(0.5);
-  -moz-transform: scale(0.5);
-  -ms-transform: scale(0.5);
-  -o-transform: scale(0.5);
-}
-
-
-
 /* 首页文章卡片 */
 #recent-posts > .recent-post-item {
   background: var(--trans-light);
@@ -237,4 +196,58 @@ div#archive {
 [data-theme="dark"] .read-mode div#post {
   background: rgba(25, 25, 25, 0.9) !important;
   color: #ffffff;
+}
+
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgba(73, 177, 245, 0.2);
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(10, 132, 148, 0.5);
+  background-image: -webkit-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.4) 25%,
+    transparent 25%,
+    transparent 50%,
+    rgba(255, 255, 255, 0.4) 50%,
+    rgba(255, 255, 255, 0.4) 75%,
+    transparent 75%,
+    transparent
+  );
+  border-radius: 2em;
+}
+
+::-webkit-scrollbar-corner {
+  background-color: transparent;
+}
+
+::-moz-selection {
+  color: #fff;
+  background-color: rgba(10, 132, 148, 0.5);
+}
+
+/*哔哩哔哩视频适配*/
+.aspect-ratio {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding-bottom: 75%;
+  margin: 3% auto;
+  text-align: center;
+  border-radius: 18px;
+}
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 80%;
+  left: 0;
+  top: 0;
+  border-radius: 18px;
 }
