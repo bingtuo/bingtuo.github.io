@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>冰拓`Blog</title>
+  
+  <subtitle>岁月静好</subtitle>
+  <link href="http://bingt.top/atom.xml" rel="self"/>
+  
+  <link href="http://bingt.top/"/>
+  <updated>2023-07-14T11:18:20.186Z</updated>
+  <id>http://bingt.top/</id>
+  
+  <author>
+    <name>Bingt</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++测试</title>
+    <link href="http://bingt.top/2023/02/17/C-2023-2-17-C-%E6%B5%8B%E8%AF%95/"/>
+    <id>http://bingt.top/2023/02/17/C-2023-2-17-C-%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-02-17T11:41:00.000Z</published>
+    <updated>2023-07-14T11:18:20.186Z</updated>
+    
+    
+    
+    
+    <category term="C++" scheme="http://bingt.top/categories/C/"/>
+    
+    
+    <category term="C++" scheme="http://bingt.top/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客的第一篇文章</title>
+    <link href="http://bingt.top/2023/02/17/2023-2-17-%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://bingt.top/2023/02/17/2023-2-17-%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2023-02-17T07:35:00.000Z</published>
+    <updated>2023-07-14T11:18:20.185Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="这是第一篇文章"><a href="#这是第一篇文章" class="headerlink" title="这是第一篇文章"></a>这是第一篇文章</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;这是第一篇文章&quot;&gt;&lt;a href=&quot;#这是第一篇文章&quot; class=&quot;headerlink&quot; title=&quot;这是第一篇文章&quot;&gt;&lt;/a&gt;这是第一篇文章&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="日常" scheme="http://bingt.top/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="biaoqian1" scheme="http://bingt.top/tags/biaoqian1/"/>
+    
+  </entry>
+  
+</feed>
