@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bingt.top/2023/07/d37bf00289d3.html</loc>
+    <loc>http://bingt.top/2023/03/8418c6890d0d.html</loc>
     
     <lastmod>2023-07-16</lastmod>
     
@@ -12,6 +12,24 @@
   
   <url>
     <loc>http://bingt.top/2023/07/b46fd6a08ce8.html</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/2023/07/d37bf00289d3.html</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/2023/02/64b23c7f36bd.html</loc>
     
     <lastmod>2023-07-16</lastmod>
     
@@ -38,25 +56,7 @@
   </url>
   
   <url>
-    <loc>http://bingt.top/2023/02/9a5ee6731df3.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://bingt.top/2023/02/0eb120d31265.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://bingt.top/2023/03/8418c6890d0d.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
@@ -185,7 +185,21 @@
   </url>
   
   <url>
-    <loc>http://bingt.top/tags/biaoqian1/</loc>
+    <loc>http://bingt.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/tags/obsidian/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/tags/hexo/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -201,21 +215,7 @@
   </url>
   
   <url>
-    <loc>http://bingt.top/categories/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://bingt.top/categories/%E5%8D%9A%E5%AE%A2%E6%96%B9%E6%A1%88/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://bingt.top/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
