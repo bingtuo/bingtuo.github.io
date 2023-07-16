@@ -17,9 +17,9 @@ http://bingt.top/link/index.html
 http://bingt.top/tags/index.html
 http://bingt.top/
 http://bingt.top/tags/C/
+http://bingt.top/tags/%E6%B5%8B%E8%AF%95/
 http://bingt.top/tags/%E5%9B%BE%E5%BA%8A/
 http://bingt.top/tags/Github/
-http://bingt.top/tags/%E6%B5%8B%E8%AF%95/
 http://bingt.top/tags/obsidian/
 http://bingt.top/tags/hexo/
 http://bingt.top/categories/C/
