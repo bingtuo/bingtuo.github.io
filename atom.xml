@@ -6,7 +6,7 @@
   <link href="http://bingt.top/atom.xml" rel="self"/>
   
   <link href="http://bingt.top/"/>
-  <updated>2023-03-07T07:10:40.724Z</updated>
+  <updated>2023-07-16T08:27:54.771Z</updated>
   <id>http://bingt.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo博客 更换设备</title>
+    <link href="http://bingt.top/2023/07/b46fd6a08ce8.html"/>
+    <id>http://bingt.top/2023/07/b46fd6a08ce8.html</id>
+    <published>2023-07-16T07:51:09.000Z</published>
+    <updated>2023-07-16T08:27:54.771Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo博客部署在github上，由于更换电脑，需要重新搭建环境</p><h1 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h1><ul><li><p>下载并安装好Nodejs和git<br><a href="https://nodejs.org/en/download">Nodejs</a><br><a href="https://git-scm.com/">git</a></p></li><li><p>设置git全局邮箱和用户名</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name &quot;yourgithubname&quot;</span><br><span class="line">git config --global user.email &quot;yourgithubemail&quot;</span><br></pre></td></tr></table></figure></li><li><p>设置ssh key</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;youremail&quot;</span><br></pre></td></tr></table></figure><p>生成后填到github</p></li><li><p>验证是否成功</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li><li><p>安装hexo</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure></li></ul><h1 id="本地项目部署"><a href="#本地项目部署" class="headerlink" title="本地项目部署"></a>本地项目部署</h1><ul><li>将项目clone到本地<br>在要放的文件夹下<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone git@......</span><br></pre></td></tr></table></figure></li><li>装好依赖<br>进入clone的文件夹下并安装<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm isntall</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></li><li>部署<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo cl</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></li></ul>]]></content>
+    
+    
+    <summary type="html">更换电脑后，重新搭建环境</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="http://bingt.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>图床方案</title>

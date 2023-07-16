@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bingt.top/2023/07/b46fd6a08ce8.html</loc>
+    
+    <lastmod>2023-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://bingt.top/bangumis/index.html</loc>
     
     <lastmod>2023-07-14</lastmod>
@@ -177,6 +186,13 @@
   
   <url>
     <loc>http://bingt.top/categories/C/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://bingt.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
