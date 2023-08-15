@@ -33,9 +33,9 @@
     <category term="博客方案" scheme="http://bingt.top/categories/%E5%8D%9A%E5%AE%A2%E6%96%B9%E6%A1%88/"/>
     
     
-    <category term="obsidian" scheme="http://bingt.top/tags/obsidian/"/>
-    
     <category term="hexo" scheme="http://bingt.top/tags/hexo/"/>
+    
+    <category term="obsidian" scheme="http://bingt.top/tags/obsidian/"/>
     
   </entry>
   
@@ -44,7 +44,7 @@
     <link href="http://bingt.top/2023/07/b46fd6a08ce8.html"/>
     <id>http://bingt.top/2023/07/b46fd6a08ce8.html</id>
     <published>2023-07-16T07:51:09.000Z</published>
-    <updated>2023-08-13T14:40:54.036Z</updated>
+    <updated>2023-08-14T16:09:31.980Z</updated>
     
     <content type="html"><![CDATA[<p>hexo博客部署在github上，由于更换电脑，需要重新搭建环境</p><h1 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h1><ul><li><p>下载并安装好Nodejs和git<br><a href="https://nodejs.org/en/download">Nodejs</a><br><a href="https://git-scm.com/">git</a></p></li><li><p>设置git全局邮箱和用户名</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global user.name <span class="string">&quot;yourgithubname&quot;</span></span><br><span class="line">git config --global user.email <span class="string">&quot;yourgithubemail&quot;</span></span><br></pre></td></tr></table></figure></li><li><p>设置ssh key</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t rsa -C <span class="string">&quot;youremail&quot;</span></span><br></pre></td></tr></table></figure><p>生成秘钥后，到显示的相应目录找到公钥，将对应的公钥填到自己的Github中</p></li><li><p>验证是否成功</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ssh -T git@github.com</span><br></pre></td></tr></table></figure></li><li><p>安装hexo</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli -g</span><br></pre></td></tr></table></figure></li></ul><h1 id="本地项目部署"><a href="#本地项目部署" class="headerlink" title="本地项目部署"></a>本地项目部署</h1><ul><li>将项目clone到本地<br>在要放的文件夹下<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone git@......</span><br></pre></td></tr></table></figure></li><li>装好依赖<br>进入clone的文件夹下并安装<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">npm isntall</span><br><span class="line">npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure></li><li>部署<figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">hexo cl</span><br><span class="line">hexo g</span><br><span class="line">hexo d</span><br></pre></td></tr></table></figure></li></ul>]]></content>
     
@@ -55,6 +55,8 @@
     
     <category term="博客方案" scheme="http://bingt.top/categories/%E5%8D%9A%E5%AE%A2%E6%96%B9%E6%A1%88/"/>
     
+    
+    <category term="hexo" scheme="http://bingt.top/tags/hexo/"/>
     
   </entry>
   
@@ -78,46 +80,6 @@
     <category term="图床" scheme="http://bingt.top/tags/%E5%9B%BE%E5%BA%8A/"/>
     
     <category term="Github" scheme="http://bingt.top/tags/Github/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>C++测试</title>
-    <link href="http://bingt.top/2023/02/0eb120d31265.html"/>
-    <id>http://bingt.top/2023/02/0eb120d31265.html</id>
-    <published>2023-02-17T11:41:00.000Z</published>
-    <updated>2023-03-07T07:12:28.758Z</updated>
-    
-    
-    <summary type="html">这是博客测试文</summary>
-    
-    
-    
-    <category term="C++" scheme="http://bingt.top/categories/C/"/>
-    
-    
-    <category term="C++" scheme="http://bingt.top/tags/C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客的第一篇文章</title>
-    <link href="http://bingt.top/2023/02/64b23c7f36bd.html"/>
-    <id>http://bingt.top/2023/02/64b23c7f36bd.html</id>
-    <published>2023-02-17T07:35:00.000Z</published>
-    <updated>2023-07-16T09:13:27.502Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"># </span><span class="language-bash">VSCode终端</span></span><br><span class="line">hexo clean; hexo s</span><br><span class="line">hexo clean; hexo g; hexo d</span><br><span class="line">git add .; git commit -m &quot;npm publish&quot;; npm version patch; </span><br><span class="line">git push</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Cmder终端</span></span><br><span class="line">hexo clean &amp;&amp; hexo s</span><br><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</span><br><span class="line">git add . &amp;&amp; git commit -m &quot;npm publish&quot; &amp;&amp; npm version patch</span><br><span class="line">git push</span><br></pre></td></tr></table></figure><div class="table-container"><table><thead><tr><th>项目标号</th><th>资金</th><th>备注</th></tr></thead><tbody><tr><td>1</td><td>100，000</td><td>无</td></tr><tr><td>2</td><td>200，000</td><td>无</td></tr><tr><td>3</td><td>300,600</td><td>重要</td></tr></tbody></table></div><ol><li>带 <u>下划线</u> 的文本</li><li>带 <emp>着重号</emp> 的文本</li><li>带 <wavy>波浪线</wavy> 的文本</li><li>带 <del>删除线</del> 的文本</li><li>键盘样式的文本 <kbd>command</kbd> + <kbd>D</kbd></li><li>密码样式的文本：<psw>这里没有验证码</psw></li></ol>]]></content>
-    
-    
-    <summary type="html">这是博客测试文</summary>
-    
-    
-    
-    <category term="博客方案" scheme="http://bingt.top/categories/%E5%8D%9A%E5%AE%A2%E6%96%B9%E6%A1%88/"/>
-    
-    
-    <category term="测试" scheme="http://bingt.top/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
